@@ -4,8 +4,8 @@
 		id          = "myfirstapp"
         version     = "1.0.0" >
 
-    <name>GUI</name>
-    <description>My first mobile app with jQuery Mobile user interface</description>
+    <name>Business card</name>
+    <description>My first business card</description>
     <author href="http://ted.slawik.com" email="ted.slawik@gmail.com">
 		Tadeusz S
 	</author>
